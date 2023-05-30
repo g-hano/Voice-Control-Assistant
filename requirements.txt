@@ -1,0 +1,13 @@
+re = 2.2.1
+boto3=1.26.142
+huggingface-hub=0.14.1
+openai-whisper=20230314
+for torch = torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+transformers=4.29.2
+EdgeGPT=0.6.8
+PyAutoGUI=0.9.54
+SpeechRecognition=3.10.0
+accelerate=0.19.0
+authtoken
+diffusers
+pydub
